@@ -1,4 +1,4 @@
-# Project Name
+# AdvancedRegression-SurpriseHousing
 Adavanced regression, to predict the price of a house in Australia for US based housing company Surprise housing.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
